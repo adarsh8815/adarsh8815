@@ -143,7 +143,7 @@ Platform Engineering              ███████████████�
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=adarsh8815&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=adarsh8815&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" /> -->
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh8815&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff" alt="GitHub Streak" width="49%" />
 
